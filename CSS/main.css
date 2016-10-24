@@ -1,0 +1,15 @@
+		/*margenes y paddings*/
+.m-4{
+	margin: 4%;
+}
+.mt-2{
+	margin-top: 2%;
+}
+.pd{
+	padding: 2 1;
+}
+
+p{
+	background-color: silver;
+	padding: 2%;
+}
