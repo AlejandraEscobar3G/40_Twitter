@@ -9,7 +9,27 @@
 	padding: 2 1;
 }
 
-p{
+li{
 	background-color: silver;
 	padding: 2%;
+	list-style: none;
+	margin-bottom: 1%;
+	position: relative;
+}
+ul{
+	padding: 0% !important;
+}
+ul div{
+	display: inline;
+	position: absolute;
+	right: 10px;
+	font-size: 20px;
+}
+p{
+	display: inline;
+	padding-left: 3%;
+}
+
+.subrayar{
+	text-decoration: line-through;
 }
